@@ -2,7 +2,7 @@
 /**
 * Plugin Name: cpt-demo
 * Plugin URI: https://github.com/oterox/cpt-demo
-* Version: 0.1
+* Version: 0.3
 * Author: Javier Otero
 * Author URI: http://www.oterox.com
 * Description: Demo CPT
