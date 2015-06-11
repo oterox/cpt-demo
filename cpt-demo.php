@@ -55,8 +55,8 @@ class OXCptDemo{
             'show_ui' => true,
             'supports' => array(
             	'title',
-            	'author',
-            	'comments',	
+            	'editor',
+            	'thumbnail'
             ),
         ));	
 	}
