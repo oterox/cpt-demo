@@ -1,3 +1,9 @@
+#### 0.5
+* changed version number.
+
+#### 0.4
+* added readme.txt.
+
 #### 0.3
 * changed version number.
 
