@@ -1,3 +1,7 @@
+#### 0.6
+* changed version number.
+* added new github token for testing
+
 #### 0.5
 * changed version number.
 
