@@ -2,7 +2,7 @@
 /**
 * Plugin Name: cpt-demo
 * Plugin URI: https://github.com/oterox/cpt-demo
-* Version: 0.6
+* Version: 0.7
 * Author: Javier Otero
 * Author URI: http://www.oterox.com
 * Description: Demo CPT for testing updates
@@ -25,13 +25,13 @@ class OXCptDemo{
 	function register_custom_post_type() {
 		register_post_type('contact', array(
             'labels' => array(
-				'name'               => _x( 'Contactos', 'post type general name', 'tuts-crm' ),
+				'name'               => _x( 'Contacts', 'post type general name', 'tuts-crm' ),
 				'singular_name'      => _x( 'Contact', 'post type singular name', 'tuts-crm' ),
-				'menu_name'          => _x( 'Contactos', 'admin menu', 'tuts-crm' ),
+				'menu_name'          => _x( 'Contacts', 'admin menu', 'tuts-crm' ),
 				'name_admin_bar'     => _x( 'Contact', 'add new on admin bar', 'tuts-crm' ),
 				'add_new'            => _x( 'Add New', 'contact', 'tuts-crm' ),
 				'add_new_item'       => __( 'Add New Contact', 'tuts-crm' ),
-				'new_item'           => __( 'New Contacto', 'tuts-crm' ),
+				'new_item'           => __( 'New Contact', 'tuts-crm' ),
 				'edit_item'          => __( 'Edit Contact', 'tuts-crm' ),
 				'view_item'          => __( 'View Contact', 'tuts-crm' ),
 				'all_items'          => __( 'All Contacts', 'tuts-crm' ),
