@@ -1,4 +1,6 @@
-#### 0.6
+#### 0.8
+* changed version number.
+#### 0.7
 * changed version number.
 #### 0.6
 * changed version number.
